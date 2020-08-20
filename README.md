@@ -1,8 +1,5 @@
 ### Hello 👋
 
-<!--
-**dev-szymon/dev-szymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ##### My stack:
 
   - :six_pointed_star: ReactJS
