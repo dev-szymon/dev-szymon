@@ -16,7 +16,7 @@
   
   Gatsby blog powered by Netlfy CMS. It uses stripe for payment and netlify lambda functions to verify transaction and send an email with form or digital product.
   
-  [Take a peak!](https://weeeerczix-blog.netlify.app/)
+  [Take a peek!](https://weeeerczix-blog.netlify.app/)
   
   ---
   
@@ -29,7 +29,7 @@
   
   [https://github.com/dev-szymon/mealprep](https://github.com/dev-szymon/mealprep)
   
-  [Take a peak!](https://mealprepare.netlify.app/)
+  [Take a peek!](https://mealprepare.netlify.app/)
   
   ---
 
