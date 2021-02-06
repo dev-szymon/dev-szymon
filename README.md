@@ -11,14 +11,6 @@
  ---
  
 #### Projects I'm currently working on, learning new things on the way:
-
-  [https://github.com/dev-szymon/weeeerczix-blog](https://github.com/dev-szymon/weeeerczix-blog)
-  
-  Gatsby blog powered by Netlfy CMS. It uses stripe for payment and netlify lambda functions to verify transaction and send an email with form or digital product.
-  
-  [Take a peek!](https://weeeerczix-blog.netlify.app/)
-  
-  ---
   
   [https://github.com/dev-szymon/front_mealprep](https://github.com/dev-szymon/front_mealprep)
   
