@@ -10,18 +10,13 @@
  
  ---
  
-#### Projects I'm currently working on, learning new things on the way:
-  
-  [https://github.com/dev-szymon/front_mealprep](https://github.com/dev-szymon/front_mealprep)
-  
-  Front end for full stack application. Uses Gatsby but wraps root element to make it dynamic. 
-  The choice of Gatsby was to utilise Gatsby plugin system and embed a blog later into a project. 
-  
-  The app is powered by NodeJs and Graphql backend:
+#### Projects:
+ 
+  NodeJs and Graphql api:
   
   [https://github.com/dev-szymon/mealprep](https://github.com/dev-szymon/mealprep)
   
-  [Take a peek!](https://mealprepare.netlify.app/)
+  [graphql playground](https://eatwell.club)
   
   ---
 
