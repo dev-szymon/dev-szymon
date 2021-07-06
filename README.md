@@ -8,6 +8,8 @@ One of my first projects from back in the day is [memory game](https://dev-szymo
 
 Later I've created first public facing, static website for birthing school. [pod-sercem.pl](https://pod-sercem.pl/) It's a gatsby website powered by netlify cms.
 
+I've got somewhat more familiar with Gatsby Image api and had an opportunity to contribute to the source code. Although it's just one line of code it required understanding of the issue, the api and some code analysis in order to arrive at the solution. A day well spent. [link to pull request](https://github.com/gatsbyjs/gatsby/pull/30451)
+
 Check out my other pinned repos for other code examples.
 
 I am also interested in UI/UX and design systems
