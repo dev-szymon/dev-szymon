@@ -7,7 +7,10 @@ I am currently working full time in a hotel as a front office supervisor. In spa
 One of my first projects from back in the day is [memory game](https://dev-szymon.github.io/memogame/) which is published on my github pages. It's by no means a good piece of software nor elegant code but it shows where I started. I left it as it is and decided not to try and improve it. Maybe some day..
 
 Later I've created first public facing, static website for birthing school. [pod-sercem.pl](https://pod-sercem.pl/) It's a gatsby website powered by netlify cms.
+
 Check out my other pinned repos for other code examples.
+
+I am also interested in UI/UX and design systems
 
 ### My stack
 
@@ -25,5 +28,7 @@ I've also had opportunity to play with
 - [NodeJS](https://nodejs.org/en/)
 - [Material UI](https://material-ui.com/)
 - [GraphqQL](https://graphql.org/)
+- [React Query](https://react-query.tanstack.com/)
+- [Apollo](https://www.apollographql.com/)
 
 
