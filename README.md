@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Szymon, a web developer at [@TDSOFT](https://tdsoft.com/).
+I'm Szymon, a web developer at [@TDSOFT](https://tdsoft.com/) and Golang enthusiast.
 
 🔧 Core Technologies
 
@@ -10,8 +10,6 @@ I specialize in web development and work extensively with the following technolo
 - **Remix**
 - **Tailwind**
 - **Styled Components**
-
-I'm constantly exploring and learning new technologies. For a while now I'm huge Golang enthusiast.
 
 📫 Get in Touch
 
