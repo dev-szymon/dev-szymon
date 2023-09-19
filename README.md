@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Szymon, a web developer at [@TDSOFT](https://tdsoft.com/) and Golang enthusiast.
+I'm Szymon, professionally web developer at [@TDSOFT](https://tdsoft.com/) and Golang enthusiast in spare time.
 
 🔧 Core Technologies
 
