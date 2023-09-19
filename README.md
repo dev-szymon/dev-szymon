@@ -1,5 +1,5 @@
 ##Hi there 👋
-I'm Szymon, a web developer at @TDSOFT.
+I'm Szymon, a web developer at [@TDSOFT](https://tdoft.com/).
 
 🔧 Core Technologies
 I specialize in web development and work extensively with the following technologies:
