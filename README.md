@@ -1,16 +1,17 @@
-### Hi there 👋
+##Hi there 👋
+I'm Szymon, a web developer at @TDSOFT.
 
-<!--
-**dev-szymon/dev-szymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Core Technologies
+I specialize in web development and work extensively with the following technologies:
 
-Here are some ideas to get you started:
+- **React**
+- **Typescript**
+- **Remix**
+- **Tailwind**
+- **Styled Components**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm constantly exploring and learning new technologies. For a while now I'm huge Golang enthusiast.
+
+📫 Get in Touch
+Feel free to reach out to me via email at szymongazda95@gmail.com.
+
