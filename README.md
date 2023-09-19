@@ -1,4 +1,4 @@
-##Hi there 👋
+## Hi there 👋
 I'm Szymon, a web developer at [@TDSOFT](https://tdsoft.com/).
 
 🔧 Core Technologies
