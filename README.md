@@ -3,6 +3,7 @@
 I'm Szymon, a web developer at [@TDSOFT](https://tdsoft.com/).
 
 🔧 Core Technologies
+
 I specialize in web development and work extensively with the following technologies:
 - **React**
 - **Typescript**
